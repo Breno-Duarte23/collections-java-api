@@ -1,7 +1,5 @@
 package listaDeTarefas;
 
-import java.util.Objects;
-
 public class Tarefa {
 	private String descricao;
 	private boolean concluida;
